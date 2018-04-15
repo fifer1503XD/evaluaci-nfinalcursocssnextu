@@ -308,3 +308,20 @@ li a{
          flex: 1 100%;
     }
 }
+
+/*animación al cargar la pagina*/
+header {
+  animation-duration: 5s;
+  animation-name: slidein;
+}
+@keyframes slidein {
+  0% {
+    margin-top: 150%;
+  }
+  60% {
+    margin-top: -5%;
+  }
+  100% {
+    margin-top: 0%;
+  }
+}
