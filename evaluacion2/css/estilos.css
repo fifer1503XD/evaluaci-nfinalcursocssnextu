@@ -181,20 +181,20 @@ li a{
     align-content: space-around;
     border-radius: 0px 0px 6px 6px;
 }
-#caja1{
+#c1{
     height:350px;
     flex: 1 auto;
     border-bottom-left-radius: 10px;
 }
-#caja2{
+#c2{
     height:350px;
     flex: 1 auto;
 }
-#caja3{
+#c3{
     height:350px;
     flex: 1 auto;
 }
-#caja4{
+#c4{
     height:350px;
     flex: 1 auto;
     border-bottom-right-radius: 10px;
@@ -204,7 +204,7 @@ li a{
      width: 30px;
 }
 /* css paginas paisajes y retrato*/
-#galeria{
+#is{
   width:100%;
   max-width: 1300px;
   min-width:250px;
@@ -212,26 +212,26 @@ li a{
   flex-flow: row wrap;
   background-color: black;
 }
-#galeria1{
+#i1{
   height: auto;
   flex: 1 auto;
 }
-#galeria2{
+#i2{
   height: auto;
   flex: 1 auto;
 }
-#galeria3{
+#i3{
   widht: auto;
   flex: 1 auto;
 }
-#galeria4{
+#i4{
   widht: auto;
   flex: 1 auto;
 }
-#galeria5{
+#i5{
   widht: auto;
   flex: 1 auto;
-}#galeria6{
+}#i6{
   widht: auto;
   flex: 1 auto;
 }
@@ -291,19 +291,19 @@ li a{
         flex: 1 100%;
 
     }
-    #caja1{
+    #c1{
          height: auto;
          flex: 1 100%;
     }
-    #caja2{
+    #c2{
         height: auto;
          flex: 1 100%;
     }
-    #caja3{
+    #c3{
         height: auto;
          flex: 1 100%;
     }
-    #caja4{
+    #c4{
         height: auto;
          flex: 1 100%;
     }
