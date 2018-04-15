@@ -312,9 +312,9 @@ li a{
 /*animación al cargar la pagina*/
 header {
   animation-duration: 5s;
-  animation-name: slidein;
+  animation-name: iniciosubiendo;
 }
-@keyframes slidein {
+@keyframes iniciosubiendo {
   0% {
     margin-top: 150%;
   }
